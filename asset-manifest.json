@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://achinta1997.github.io/csb-grewf4/static/js/main.b0db9bbf.chunk.js",
+    "main.js.map": "https://achinta1997.github.io/csb-grewf4/static/js/main.b0db9bbf.chunk.js.map",
+    "runtime-main.js": "https://achinta1997.github.io/csb-grewf4/static/js/runtime-main.7bd92a6d.js",
+    "runtime-main.js.map": "https://achinta1997.github.io/csb-grewf4/static/js/runtime-main.7bd92a6d.js.map",
+    "static/js/2.88831c34.chunk.js": "https://achinta1997.github.io/csb-grewf4/static/js/2.88831c34.chunk.js",
+    "static/js/2.88831c34.chunk.js.map": "https://achinta1997.github.io/csb-grewf4/static/js/2.88831c34.chunk.js.map",
+    "index.html": "https://achinta1997.github.io/csb-grewf4/index.html",
+    "precache-manifest.b724096bef231ef1f707ae181c940e56.js": "https://achinta1997.github.io/csb-grewf4/precache-manifest.b724096bef231ef1f707ae181c940e56.js",
+    "service-worker.js": "https://achinta1997.github.io/csb-grewf4/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bd92a6d.js",
+    "static/js/2.88831c34.chunk.js",
+    "static/js/main.b0db9bbf.chunk.js"
+  ]
+}
